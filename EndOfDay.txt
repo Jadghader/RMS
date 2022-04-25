@@ -1,0 +1,29 @@
+12/12/2012
+Items                                   	Quantity	Total
+Lobster Bisque.                         	0     		$0    
+Baked Brie.                             	0     		$0    
+Clams with Vinegar & Shallots.          	0     		$0    
+Calamari with Tomatoe Sauce.            	0     		$0    
+Crab bites with yogurt dressing.        	0     		$0    
+Shrimp Mango Salad.                     	0     		$0    
+Greek Salad.                            	0     		$0    
+Caesar Salad.                           	2     		$44   
+Salmon and Avocado Salad.               	0     		$0    
+Nicoise Salad.                          	0     		$0    
+Organic Salmon.                         	0     		$0    
+Pan fried Cod.                          	0     		$0    
+Pan Fried Sea Bass.                     	0     		$0    
+Grilled lobster tails.                  	0     		$0    
+Trout Mustard Risotto.                  	0     		$0    
+Grapefruit Mint.                        	0     		$0    
+Carrot Limeade.                         	0     		$0    
+Minted Lemonade.                        	0     		$0    
+Fruit Cockatail.                        	0     		$0    
+Coke, Diet Coke, 7up, Miranda.          	0     		$0    
+Mango parfait with coconut sorbet.      	0     		$0    
+Chilled chocolate caramel fondant.      	0     		$0    
+Lemon and Lavender Possets.             	0     		$0    
+Chocolate Mousse.                       	0     		$0    
+Creme Brulee.                           	3     		$60   
+----------------------------------------------------------------------------------
+Grand Total                             	5     		$164.000000                                                        ==============

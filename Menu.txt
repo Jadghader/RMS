@@ -1,0 +1,59 @@
+Menu:
+
+Welcome To Fine Dining!
+
+Take your time to check our menu.
+
+ 
+
+         	   1 Appetizers						
+
+      1.Lobster Bisque.....................$30.00 	 		
+      2.Baked Brie.........................$20.00			
+      3.Clams with Vinegar & Shallots......$30.00			
+      4.Calamari with Tomatoe Sauce........$25.00
+      5.Crab bites with yogurt dressing....$35.00
+      
+
+
+
+         	     2 Salads
+
+      1.Shrimp Mango Salad.................$25.00
+      2.Greek Salad........................$24.00
+      3.Caesar Salad.......................$22.00
+      4.Salmon and Avocado Salad...........$33.00
+      5.Nicoise Salad......................$23.00
+
+
+
+
+		  3 Main Course
+
+     1.Organic Salmon......................$37.00
+     2.Panfried Cod........................$43.00
+     3.Pan Fried Sea Bass..................$53.00
+     4.Grilled lobster tails...............$70.00
+     5.Trout Mustard Risotto...............$46.00
+
+
+
+
+		  4 Beverages
+
+     1.Grapefruit Mint.....................$17.00
+     2.Carrot Limeade......................$17.00
+     3.Minted Lemonade.....................$21.00
+     4.Fruit Cockatail.....................$23.00
+     5.Coke, Diet Coke, 7up,Miranda........$20.00     
+
+
+
+
+		  5 Desserts
+
+     1.Mango parfait with coconut sorbet...$30.00
+     2.Chilled chocolate caramel fondant...$40.00
+     3.Lemon and Lavender Possets..........$30.00
+     4.Chocolate Mousse....................$25.00
+     5.Creme Brulee........................$20.00
